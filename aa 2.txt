@@ -6,79 +6,79 @@
 			"id": "12",
       		"_Title": "12 Best & Most Unique Search Engines to Try in 2023",
         	"_Txt": "Although Google is by far the most popular search engine, it’s certainly not the only search engine. \nDifferent search engines have different audience demographics. And different pros and cons. \nThis article, we’ll explore those differences. Read on for a comprehensive list of search engines and their most unique features.",
-			"_image": "0"
+			"_image": "https://www.wikihow.com/images/thumb/8/81/Once-a-Cheater-Always-a-Cheater-Step-1.jpg/v4-728px-Once-a-Cheater-Always-a-Cheater-Step-1.jpg"
     	},
 		{
 			"id": "1",
       		"_Title": "1. Google",
         	"_Txt": "Domain: google.com\n What makes it unique: the best search engine (in terms of popularity). \n \nGoogle is the world's most popular search engine, with a market share of over 93% (as of March 2023). Larry Page and Sergey Brin founded it in 1998. \nIt uses a vast number of algorithms (ranking systems) to provide users with fast and accurate search results. It also offers other popular services—like Google Maps, YouTube, and Gmail. \nGoogle's search engine results pages (SERPs) are typically populated with various SERP features (like featured snippets, People Also Ask sections, and knowledge panels), based on the type of the search query. \nIn 2023, Google introduced its AI-powered search assistant called Bard. \nGoogle has faced many criticisms over the years. The most common are related to the amount of data it collects about its users. That's why privacy concerns are among the common reasons users seek Google alternatives.",
-			"_image": "0"
+			"_image": "https://www.wikihow.com/images/thumb/8/81/Once-a-Cheater-Always-a-Cheater-Step-1.jpg/v4-728px-Once-a-Cheater-Always-a-Cheater-Step-1.jpg"
     	},
 		{
 			"id": "1",
       		"_Title": "2. Bing",
         	"_Txt": "Domain: bing.com\n What makes it unique: rewards program, AI chat assistant. \n \nCreated by Microsoft in 2009, Bing is the second-largest search engine in the world. \nBing's strength lies in its multimedia search capabilities—namely advanced image and video search results. Another interesting feature is its rewards program. Every time you use Bing, you collect points that go toward gift cards. \nIn 2023, Bing shook things up by being the first mainstream search engine to introduce an AI-powered search assistant in its search results.",
-			"_image": "0"
+			"_image": "https://www.wikihow.com/images/thumb/8/81/Once-a-Cheater-Always-a-Cheater-Step-1.jpg/v4-728px-Once-a-Cheater-Always-a-Cheater-Step-1.jpg"
     	},
 		{
 			"id": "1",
       		"_Title": "3. DuckDuckGo",
         	"_Txt": "Domain: duckduckgo.com\n What makes it unique: most popular privacy-oriented search. \n \nDuckDuckGo is the most popular of a growing number of search engines that prioritize user privacy. It doesn’t track, collect, or store any of your data. It still uses non-personalized ads, though. \nThe search results come from a variety of sources, including their own crawler and other search engines (but not Google). Also, DuckDuckGo’s search interface is easy to customize to your preferences. \nIt offers some unique features, like advanced commands that allow you to speed up your search. For example, if you type (a family tents) into DuckDuckGo's search bar, you'll land directly on Amazon’s results page with family tents.",
-			"_image": "0"
+			"_image": "https://www.wikihow.com/images/thumb/8/81/Once-a-Cheater-Always-a-Cheater-Step-1.jpg/v4-728px-Once-a-Cheater-Always-a-Cheater-Step-1.jpg"
     	},
 		{
 			"id": "1",
       		"_Title": "4. Yahoo",
         	"_Txt": "Domain: yahoo.com\n What makes it unique: one of the oldest search engines. \n \nLaunched in 1994, Yahoo is one of the oldest search engines on the internet. \nIt is also the third biggest search engine for desktop users worldwide, although it only means 1.12% market share (as of March 2023). \nMicrosoft's Bing powers Yahoo’s search results. So you'll probably notice some similarities. \nBesides serving as a search engine, Yahoo has also evolved into a web portal. It offers various types of content, from what’s trending and the biggest news stories to the weather forecast and sports results.",
-			"_image": "0"
+			"_image": "https://www.wikihow.com/images/thumb/8/81/Once-a-Cheater-Always-a-Cheater-Step-1.jpg/v4-728px-Once-a-Cheater-Always-a-Cheater-Step-1.jpg"
     	},
 		{
 			"id": "1",
       		"_Title": "5. Baidu",
         	"_Txt": "Domain: baidu.com\n What makes it unique: most popular search engine in China. \n \nBaidu is China’s largest search engine, with just under 50% market share in the country (as of March 2023). \nSimilarly, to Google, Baidu offers a wide range of services. Like maps, news, an encyclopedia, and a cloud storage service. \nIts search algorithm is tailored to the Chinese language and culture. So if you’re not targeting the Chinese market, it may not be relevant to you. \nChina's government also heavily censors it. ",
-			"_image": "0"
+			"_image": "https://www.wikihow.com/images/thumb/8/81/Once-a-Cheater-Always-a-Cheater-Step-1.jpg/v4-728px-Once-a-Cheater-Always-a-Cheater-Step-1.jpg"
     	},
 		{
 			"id": "1",
       		"_Title": "6. Yandex",
         	"_Txt": "Domain: yandex.ru\n What makes it unique: most popular search engine in Russia. \n \nYandex is the largest search engine in Russia. It is also used in other countries like Belarus, Turkey, and Kazakhstan. Besides the Russian version, it also has a global English version at yandex.com. \nThe tech company behind Yandex also offers many other products and services, including maps, a voice assistant, a ride-hailing service, a web browser, or a music streaming service. \nIn 2023, Yandex's code leaked, including the list of all the ranking factors used in its search algorithm. This led to many analyses and interpretations. Especially because Google's and Yandex's algorithms are often considered to be similar and Yandex hired many ex-Google employees in the past.",
-			"_image": "0"
+			"_image": "https://www.wikihow.com/images/thumb/8/81/Once-a-Cheater-Always-a-Cheater-Step-1.jpg/v4-728px-Once-a-Cheater-Always-a-Cheater-Step-1.jpg"
     	},
 		{
 			"id": "1",
       		"_Title": "7. Brave Search",
         	"_Txt": "Domain: search.brave.com\n What makes it unique: privacy, rewards program. \n \nBrave is a privacy-focused web browser founded in 2015. It also has its own search engine—called Brave Search—that you can use within or outside the Brave browser. \nSimilarly, to DuckDuckGo, Brave Search offers a private and anonymous search. \nUnlike some other smaller search engines, Brave uses its own web index and algorithms. But you can also enable (Google fallback). This means Brave will also check Google to provide more accurate results. \nIts Summarizer feature is an AI-powered tool that provides direct answers in search results.",
-			"_image": "0"
+			"_image": "https://www.wikihow.com/images/thumb/8/81/Once-a-Cheater-Always-a-Cheater-Step-1.jpg/v4-728px-Once-a-Cheater-Always-a-Cheater-Step-1.jpg"
     	},
 		{
 			"id": "1",
       		"_Title": "8. Neeva",
         	"_Txt": "Domain: neeva.com\n What makes it unique: ad-free, subscription-based\n \nNeeva is a subscription-based, privacy-centric search engine founded in 2019 by former Google and YouTube employees. \nNeeva's core feature is ad-free search (although the unlimited ad-free search is only available with the Premium plan). \nIts search results are also powered by AI, through direct answers of its NeevaAI system. As you can see in the screenshot, the first search result is always an answer by NeevaAI, with cited sources and suggested follow-up questions. \nAnother unique feature is the ability to personalize the search results by selecting your favorite sources and shops. ",
-			"_image": "0"
+			"_image": "https://www.wikihow.com/images/thumb/8/81/Once-a-Cheater-Always-a-Cheater-Step-1.jpg/v4-728px-Once-a-Cheater-Always-a-Cheater-Step-1.jpg"
     	},
 		{
 			"id": "1",
       		"_Title": "9. You",
         	"_Txt": "Domain: you.com\n What makes it unique: highly customizable, various AI-powered apps\n \nYou.com is a new kid on the block. It was founded in 2021 and uses Microsoft's Bing results as a source of data. \nSimilarly, to other newer search engines, You.com focuses on privacy and personalization of the search results. \nYou can pick from over 150 apps to add to the search results. For example, you can add sections with dedicated Amazon results, YouTube videos, TripAdvisor listings, etc. \nIt also offers a set of AI-powered apps—including the chat assistant YouChat, a writing assistant called YouWrite, and an AI image generator called YouImagine.",
-			"_image": "0"
+			"_image": "https://www.wikihow.com/images/thumb/8/81/Once-a-Cheater-Always-a-Cheater-Step-1.jpg/v4-728px-Once-a-Cheater-Always-a-Cheater-Step-1.jpg"
     	},
 		{
 			"id": "1",
       		"_Title": "10. Startpage",
         	"_Txt": "Domain: startpage.com\nWhat makes it unique: Google results with privacy in mind\n \nStartpage is a search engine that focuses on user privacy and security. This includes no recording of personal data and search history, no profiling of the users, and removal of IP addresses from Startpage's servers. \nIt sources its search results from Google. Which makes it a popular alternative for those who value privacy but still want the accuracy of Google's search results. \nThe company also offers a secured email platform called StartMail.",
-			"_image": "0"
+			"_image": "https://www.wikihow.com/images/thumb/8/81/Once-a-Cheater-Always-a-Cheater-Step-1.jpg/v4-728px-Once-a-Cheater-Always-a-Cheater-Step-1.jpg"
     	},
 		{
 			"id": "1",
       		"_Title": "11. Ecosia",
         	"_Txt": "Domain: ecosia.org\nWhat makes it unique: uses 80% of revenue to plant trees\n \nEcosia is a search engine that donates a portion of its ad revenue to tree-planting initiatives around the world. \nIt is a not-for-profit company that earns money from Microsoft Bing advertisements shown in its search results. Every month, Ecosia shares its financial results and how it spent the money. \nEcosia’s search engine uses Bing as a data source. Besides standard types of results (All, Images, Shopping, Videos, etc.), it also offers quick links that will redirect your search query to different pages (like Wikipedia, Amazon, and Google).",
-			"_image": "0"
+			"_image": "https://www.wikihow.com/images/thumb/8/81/Once-a-Cheater-Always-a-Cheater-Step-1.jpg/v4-728px-Once-a-Cheater-Always-a-Cheater-Step-1.jpg"
     	},
 		{
 			"id": "1",
       		"_Title": "12. Swiss cows",
         	"_Txt": "Domain: swisscows.com \nWhat makes it unique: family friendliness. \n \n Swiss cows are a privacy-oriented search engine founded in 2014. It has its own web crawler and index, but it also uses Bing as a data source. \nA unique feature of this search engine is its family friendliness—it does not index or show pornographic or sexual results. \nIn addition to the search engine, Swiss cows provides services like an email client, a virtual private network (VPN), and a privacy-focused messenger. \nYou can set up Swiss cows as your default search engine in Chrome by installing their plugin.",
-			"_image": "0"
+			"_image": "https://www.wikihow.com/images/thumb/8/81/Once-a-Cheater-Always-a-Cheater-Step-1.jpg/v4-728px-Once-a-Cheater-Always-a-Cheater-Step-1.jpg"
     	},
 		{
 			"id": "1",
